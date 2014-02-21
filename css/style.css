@@ -53,7 +53,7 @@ ul.nav li a {
 
 #new-cupcakes img {
   border: 8px solid #FAF3BC;
-  margin: 0 0 20px 0;
+  margin: 30px 10px 20px 10px ;
 }
 
 #featured-cupcake img {
@@ -62,8 +62,8 @@ ul.nav li a {
 
 #copyright {
   border-top: 8px solid #2A0400;
-  padding: 10px 0px;
-  margin: 15px 0px;
+  padding: 15px 5px;
+  margin: 20px 10px;
   text-align: center;
 }
 
