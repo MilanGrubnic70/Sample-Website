@@ -1,7 +1,7 @@
 body {
   font-family: 'Revalia', sans-serif;
-  color: yellow;
-  background: green  repeat;
+  color: green;
+  background: url('img/maceio.jpg') green repeat;
 }
 
 a {
@@ -20,8 +20,8 @@ h2 {
 }
 
 .btn {
-  color: #FAF3BC;
-  background: #4FB69F url('img/texture.png') no-repeat right top;
+  color: red;
+  background:  url('img/copacabana_pattern.jpg') green repeat right top;
   padding: 15px 30px;
   margin: 40px 0px;
   border-radius: 25px;
