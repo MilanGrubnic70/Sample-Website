@@ -1,7 +1,7 @@
 body {
   font-family: 'Revalia', sans-serif;
   color: green;
-  background: url('img/maceio.jpg') green repeat;
+  background: url('img/flags.png') green repeat;
 }
 
 a {
@@ -24,7 +24,7 @@ h2 {
   background:  url('img/copacabana_pattern.jpg') green repeat right top;
   padding: 15px 30px;
   margin: 40px 0px;
-  border-radius: 10px;
+  border-radius: :;px;
   text-transform: uppercase;
 }
 
